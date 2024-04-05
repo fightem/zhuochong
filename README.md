@@ -38,6 +38,12 @@
 * 安装项目依赖：
 	```
 	pip install -r requirements.txt
+* 下载模型依赖：
+* 	```
+	下载的模型路径我们要将它放在"Deskpet\zhuochong2333\RumiaPet_main\work_place\SmartDeskPet"路径下
+	模型链接：链接：https://pan.baidu.com/s/1ho-FiINTNf2mfhWH2upGGw 
+		  提取码：dwa6 
+--来自百度网盘超级会员V4的分享
 **1.3主要流程：**
 * 默认安装：在完成上述安装过程后，可以直接运行软件
 * 典型使用流程：
