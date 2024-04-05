@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="图片">
+    <file>C:/Users/29549/Pictures/login_label.png</file>
+    <file>password.png</file>
+    <file>rumia.png</file>
+  </qresource>
+</RCC>
